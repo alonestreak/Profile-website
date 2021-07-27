@@ -5,7 +5,7 @@
 • If you want to view the deployed website, click on the following link:<br />
 Deployed at: _https://alonestreak.github.io/_
 
-• A glimpse of the web app:
+• A glimpse of the web site:<br/>
 **HOME PAGE** <br/>
 ![GIF](readme_resources/1.JPG)<br/><br/>
 **ABOUT PAGE** <br/>
